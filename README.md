@@ -1,16 +1,104 @@
-## Hi there 👋
+# 👋 Hi, I'm Benson Delos Reyes
 
-<!--
-**bnsndlsrys08/bnsndlsrys08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;React+%2B+Laravel+Specialist;Building+Real-World+Systems;Always+Learning+New+Things&center=true&width=500&height=45">
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Developer Profile
+
+🎓 Bachelor of Science in Information Technology (2026)
+💻 Full-Stack Developer (React + Laravel)
+📍 Philippines
+
+I build **real-world systems** focused on performance, usability, and scalability.
+Currently working on **student systems, dashboards, and dynamic data-driven apps**.
+
+---
+
+## 🚀 Tech Stack
+
+### 🖥️ Frontend
+
+![React](https://img.shields.io/badge/-React-20232A?style=flat-square\&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square\&logo=next.js)
+![Tailwind](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square\&logo=tailwind-css)
+
+### ⚙️ Backend
+
+![Laravel](https://img.shields.io/badge/-Laravel-red?style=flat-square\&logo=laravel)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square\&logo=php)
+
+### 🗄️ Database
+
+![MySQL](https://img.shields.io/badge/-MySQL-orange?style=flat-square\&logo=mysql)
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bnsndlsrys08&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bnsndlsrys08&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🔥 Featured Project
+
+### 🧾 Student Grading System
+
+A dynamic grading system with structured scoring and real-time calculations.
+
+**Key Features:**
+
+* 📊 Category-based grading (WW, PT, Exams)
+* ⚡ Real-time percentage computation
+* 🧩 Dynamic tables with flexible assessments
+* 🔐 Backend powered by Laravel API
+
+---
+
+## 🧠 Current Focus
+
+* 🏗️ Building scalable Laravel APIs
+* ⚛️ Improving React architecture
+* 📈 Optimizing performance & UX
+
+---
+
+## 🎯 2026 Goals
+
+* ✅ Build production-ready systems
+* 🚀 Deploy full-stack apps
+* 🧠 Master advanced backend architecture
+* 🌐 Contribute to open source
+
+---
+
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bnsndlsrys08&theme=tokyo-night&hide_border=true">
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/bnsndlsrys08/bnsndlsrys08/blob/output/github-contribution-grid-snake.svg">
+</p>
+
+---
+
+## 📫 Connect With Me
+
+📧 Email: [bensondelosreyes8@gmail.com](mailto:bensondelosreyes8@gmail.com)
+
+---
+
+## 💡 Personal Motto
+
+> "Build systems that solve real problems, not just pass requirements."
