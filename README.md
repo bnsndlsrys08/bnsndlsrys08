@@ -88,7 +88,7 @@ A dynamic grading system with structured scoring and real-time calculations.
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/bnsndlsrys08/bnsndlsrys08/blob/output/github-contribution-grid-snake.svg">
+  <img src="https://github.com/bnsndlsrys08/bnsndlsrys08/blob/output/github-contribution-grid-snake-dark.svg">
 </p>
 
 ---
