@@ -36,15 +36,6 @@ Currently working on **student systems, dashboards, and dynamic data-driven apps
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bnsndlsrys08&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bnsndlsrys08&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 🔥 Featured Project
 
 ### 🧾 Student Grading System
@@ -74,14 +65,6 @@ A dynamic grading system with structured scoring and real-time calculations.
 * 🚀 Deploy full-stack apps
 * 🧠 Master advanced backend architecture
 * 🌐 Contribute to open source
-
----
-
-## 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bnsndlsrys08&theme=tokyo-night&hide_border=true">
-</p>
 
 ---
 
